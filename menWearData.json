@@ -1,0 +1,125 @@
+{
+    "mensWear": [
+      {
+        "name": "Classic White Shirt",
+        "price": 1200,
+        "description": "Elegant, crisp, timeless style design",
+        "src": "fornal1"
+      },
+      {
+        "name": "Navy Slim Fit Shirt",
+        "price": 1500,
+        "description": "Sleek, modern design, sharp fit shirt",
+        "src": "formal2"
+      },
+      {
+        "name": "Light Blue Oxford Shirt",
+        "price": 1400,
+        "description": "Comfortable, versatile, formal essential",
+        "src": "formal3"
+      },
+      {
+        "name": "Grey Business Shirt",
+        "price": 1600,
+        "description": "Professional, stylish, easy care design",
+        "src": "formal4"
+      },
+      {
+        "name": "Checked Flannel Shirt",
+        "price": 1000,
+        "description": "Cozy, relaxed, weekend wear shirt",
+        "src": "casuals1"
+      },
+      {
+        "name": "Denim Button-Down Shirt",
+        "price": 1300,
+        "description": "Casual, durable design, stylish classic ",
+        "src": "casual2"
+      },
+      {
+        "name": "Printed Short Sleeve Shirt",
+        "price": 900,
+        "description": "Vibrant, trendy design, summer vibe",
+        "src": "casual3"
+      },
+      {
+        "name": "Striped Polo Shirt",
+        "price": 1100,
+        "description": "Sporty, casual, everyday comfort",
+        "src": "casual4"
+      },
+      {
+        "name": "Black Leather Oxfords",
+        "price": 2500,
+        "description": "Classic, polished, business appropriate",
+        "src": "formal shoe1"
+      },
+      {
+        "name": "Brown Brogue Shoes",
+        "price": 2700,
+        "description": "Elegant, detailed, timeless design",
+        "src": "formal shoe2"
+      },
+      {
+        "name": "Tan Derby Shoes",
+        "price": 2400,
+        "description": "Sophisticated, modern, versatile wear",
+        "src": "formal shoe3"
+      },
+      {
+        "name": "White Sneakers",
+        "price": 2000,
+        "description": "Minimal, sleek, everyday comfort",
+        "src": "casual shoe1"
+      },
+      {
+        "name": "Loafers Suede Brown",
+        "price": 2200,
+        "description": "Relaxed, easy, weekend footwear",
+        "src": "casual shoe2"
+      },
+      {
+        "name": "Canvas Slip-ons",
+        "price": 1500,
+        "description": "Casual, lightweight, summer vibe",
+        "src": "casual shoe3"
+      },
+      {
+        "name": "Grey Slim Fit Trousers",
+        "price": 1800,
+        "description": "Sharp, clean fit, professional look",
+        "src": "formal pant1"
+      },
+      {
+        "name": "Black Tailored Pants",
+        "price": 2000,
+        "description": "Elegant, crisp design, office wear",
+        "src": "formal pant 2"
+      },
+      {
+        "name": "Navy Flat Front Pants",
+        "price": 1900,
+        "description": "Sleek, modern style, timeless appeal",
+        "src": "formal pant 3"
+      },
+      {
+        "name": "Chino Khaki Pants",
+        "price": 1500,
+        "description": "Relaxed, durable, everyday essential",
+        "src": "casual pant1"
+      },
+      {
+        "name": "Denim Straight Jeans",
+        "price": 1600,
+        "description": "Casual, classic design, versatile style",
+        "src": "casual pant2"
+      },
+      {
+        "name": "Jogger Cotton Pants",
+        "price": 1200,
+        "description": "Comfortable, trendy design, relaxed fit",
+        "src": "casual pant3"
+      }
+    ]
+  }
+  
