@@ -5,7 +5,6 @@ Welcome to the **Mens LifeStyle** project, an online shopping platform designed 
 ![Screenshot 2024-10-12 193338](https://github.com/user-attachments/assets/5facdaf0-e68c-40d6-b170-32b3c8a4dbad)
 ![Screenshot 2024-10-12 193402](https://github.com/user-attachments/assets/411928a7-fee6-45a6-a1c8-b5520a5989a8)
 ![Screenshot 2024-10-12 193322](https://github.com/user-attachments/assets/b9516845-7b6c-48db-b514-d3fb5c697237)
-![Screenshot 2024-10-12 193402](https://github.com/user-attachments/assets/4a091ded-9c3d-49a6-ae8b-5d1e130ee896)
 
 ## Table of Contents
 
