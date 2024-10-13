@@ -1,0 +1,137 @@
+{
+    "mensWear": [
+      {
+        "name": "Classic White Shirt",
+        "price": 1200,
+        "description": "Elegant, crisp, timeless style design",
+        "src": "fornal1"
+      },
+      {
+        "name": "Navy Slim Shirt",
+        "price": 1500,
+        "description": "Sleek, modern design, sharp fit shirt",
+        "src": "formal2"
+      },
+      {
+        "name": "Light Blue Oxford Shirt",
+        "price": 1400,
+        "description": "Comfortable, versatile, formal essential",
+        "src": "formal3"
+      },
+      {
+        "name": "Grey Business Shirt",
+        "price": 1600,
+        "description": "Professional, stylish, easy care design",
+        "src": "formal4"
+      },
+      {
+        "name": "Checked Flannel Shirt",
+        "price": 1000,
+        "description": "Cozy, relaxed, weekend wear shirt",
+        "src": "casuals1"
+      },
+      {
+        "name": "Denim Button-Down Shirt",
+        "price": 1300,
+        "description": "Casual, durable design, stylish classic ",
+        "src": "casual2"
+      },
+      {
+        "name": "Printed Short Sleeve Shirt",
+        "price": 900,
+        "description": "Vibrant, trendy design, summer vibe",
+        "src": "casual3"
+      },
+      {
+        "name": "Striped Polo Shirt",
+        "price": 1100,
+        "description": "Sporty, casual, everyday comfort",
+        "src": "casual4"
+      },
+      {
+        "name": "Grey Slim Fit Trousers",
+        "price": 1800,
+        "description": "Sharp, clean fit, professional look",
+        "src": "formal pant1"
+      },
+      {
+        "name": "Black Tailored Pants",
+        "price": 2000,
+        "description": "Elegant, crisp design, office wear",
+        "src": "formal pant 2"
+      },
+      {
+        "name": "Navy Flat Front Pants",
+        "price": 1900,
+        "description": "Sleek, modern style, timeless appeal",
+        "src": "formal pant 3"
+      },
+      {
+        "name": "Chino Khaki Pants",
+        "price": 1500,
+        "description": "Relaxed, durable, everyday essential",
+        "src": "casual pant1"
+      },
+      {
+        "name": "Denim Straight Jeans",
+        "price": 1600,
+        "description": "Casual, classic design, versatile style",
+        "src": "casual pant2"
+      },
+      {
+        "name": "Jogger Cotton Pants",
+        "price": 1200,
+        "description": "Comfortable, trendy design, relaxed fit",
+        "src": "casual pant3"
+      },
+      {
+        "name": "White Linen Shirt",
+        "price": 1350,
+        "description": "Lightweight, breathable, ideal",
+        "src": "shirt1"
+      },
+      {
+        "name": "Olive Green Utility Shirt",
+        "price": 1450,
+        "description": "Stylish, rugged, casual outdoor wear",
+        "src": "shirt2"
+      },
+      {
+        "name": "Black Cotton T-Shirt",
+        "price": 850,
+        "description": "Soft, comfortable, casual essential",
+        "src": "shirt3"
+      },
+      {
+        "name": "Maroon Henley Shirt",
+        "price": 1200,
+        "description": "Stylish, casual, versatile everyday wear",
+        "src": "shirt4"
+      },
+      {
+        "name": "Dark Blue Slim Fit Jeans",
+        "price": 1700,
+        "description": "Classic, versatile, casual must-have",
+        "src": "pant1"
+      },
+      {
+        "name": "Light Wash Denim Jeans",
+        "price": 1800,
+        "description": "Relaxed, durable, weekend wear",
+        "src": "pant2"
+      },
+      {
+        "name": "Black Stretch Jeans",
+        "price": 1900,
+        "description": "Flexible, comfortable, casual essential",
+        "src": "pant3"
+      },
+      {
+        "name": "Grey Distressed Jeans",
+        "price": 1850,
+        "description": "Trendy, comfortable, casual streetwear",
+        "src": "pant4"
+      }
+    ]
+  }
+  
